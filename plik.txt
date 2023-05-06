@@ -1,2 +1,4 @@
-Julia ma psa. 
+Julia ma psa.
+
+Dodanie nowej, eksperymentalnej zawwartości 
 
